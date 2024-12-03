@@ -1,0 +1,6 @@
+year,km_driven,mileage,engine,max_power,torque,max_torque_rpm,fuel,seller_type,transmission,owner,brand,seats,selling_price
+2014,145500,23.4,1248,74.0,190.0,2000.0,Diesel,Individual,Manual,First Owner,Maruti,5,463798.66876392486
+2014,120000,21.14,1498,103.52,250.0,2500.0,Diesel,Individual,Manual,Second Owner,Skoda,5,529742.0090021389
+2010,127000,23.0,1396,90.0,219.67,2750.0,Diesel,Individual,Manual,First Owner,Hyundai,5,357660.969237393
+2007,120000,16.1,1298,88.2,112.78,4500.0,Petrol,Individual,Manual,First Owner,Maruti,5,145307.08913873578
+2017,45000,20.14,1197,81.86,113.75,4000.0,Petrol,Individual,Manual,First Owner,Hyundai,5,545897.8953903826
